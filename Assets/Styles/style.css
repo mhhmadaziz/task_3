@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    background-color: #007acc;
+    background-image: linear-gradient(#007acc, #fff);
+}
+.jumbotron {
+    padding: 5%;
+    text-align: center;
+}
+.container {
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.result {
+    text-align: center;
+}
+.result th {
+    padding: 20px;
+}
+table {
+    margin: 0 auto 20px auto;
+    padding: 15px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+table caption {
+    padding: 10px;
+}
+input {
+    margin-bottom: 20px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+select {
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+button {
+    padding: 5px 20px;
+}
+td {
+    padding: 10px;
+}
